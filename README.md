@@ -1,2 +1,2 @@
-# lite-socket
-WebSoket client for lite-soket package
+# Lite.ws
+WebSoket client for lite.ws package

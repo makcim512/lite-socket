@@ -1,0 +1,36 @@
+{
+  "name": "lite-socket",
+  "version": "0.0.1",
+  "description": "WebSoket client for lite-soket package",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "production": "webpack --mode production",
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makcim512/lite-socket.git"
+  },
+  "keywords": [
+    "WebSocket",
+    "socket",
+    "websoket",
+    "client",
+    "lite-socket",
+    "LiteSocket",
+    "Lite-Socket"
+  ],
+  "author": "makcim512",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.39.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "babel-loader": "^8.2.2"
+  }
+}

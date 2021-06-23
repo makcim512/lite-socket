@@ -6,3 +6,6 @@
 
 # Игнорировагтие package lock
 ./package-lock.json
+
+# Игнорируем файо macos
+.DS_Store

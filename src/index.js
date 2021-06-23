@@ -1,4 +1,4 @@
-module.exports = class LiteSocket { 
+module.exports = class LiteWs { 
     // Зраним подключение
     ws;
 

@@ -1,8 +1,8 @@
 # Игнорировагтие загружаемых библиотек
-node_modules/
+*/node_modules/
 
 # Игнорировагтие папки с тестами
-test/
+*/test/
 
 # Игнорировагтие package lock
 package-lock.json

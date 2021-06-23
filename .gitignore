@@ -5,7 +5,7 @@
 **/test
 
 # Игнорировагтие package lock
-**/package-lock.json
+package-lock.json
 
 # Игнорируем файо macos
-**/.DS_Store
+.DS_Store

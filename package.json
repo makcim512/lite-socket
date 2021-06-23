@@ -1,6 +1,6 @@
 {
   "name": "lite.ws",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "WebSoket client for lite.ws package",
   "main": "src/index.js",
   "scripts": {

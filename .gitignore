@@ -1,11 +1,11 @@
 # Игнорировагтие загружаемых библиотек
-./node_modules
+/node_modules
 
 # Игнорировагтие папки с тестами
-./test
+/test
 
 # Игнорировагтие package lock
-./package-lock.json
+package-lock.json
 
 # Игнорируем файо macos
-./.DS_Store
+.DS_Store
